@@ -3,7 +3,7 @@
 
 When planning on seeing a movie, how well can you trust online reviews and ratings? What if the online reviewer company showing the rating *also* makes money by selling movie tickets. Do they have a bias towards rating movies for the sake of higher profit?
 
-In this capstone project, with the guidance of Jose Portilla, Instructor of 2022 Python for Machine Learning & Data Science, I will explore whether or not Fandango artificially displays higher ratings than warranted to boost ticket sales. Ultimately, the goal is to tell a compelling data-driven as well as showcase my skills as a python programmer. Hope you enjoy!  
+In this capstone project, with the guidance of Jose Portilla, Instructor of 2022 Python for Machine Learning & Data Science, I will explore whether or not Fandango artificially displays higher ratings than warranted to boost ticket sales. Ultimately, the goal is to tell a compelling data-driven story as well as showcase my skills as a python programmer. Hope you enjoy!  
 
 ----
 
